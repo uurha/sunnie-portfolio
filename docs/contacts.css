@@ -1,0 +1,56 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 513px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 48px 833px 0 0;
+}
+
+.u-section-1 .u-map-1 {
+  height: 408px;
+  width: 692px;
+  margin: -408px 21px 48px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 187px;
+    margin-right: 633px;
+  }
+
+  .u-section-1 .u-map-1 {
+    margin-top: -475px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 413px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 233px;
+  }
+
+  .u-section-1 .u-map-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 33px;
+  }
+
+  .u-section-1 .u-map-1 {
+    width: 340px;
+  }
+}

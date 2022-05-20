@@ -1,0 +1,330 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 618px;
+}
+
+.u-section-1 .u-line-1 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-products-1 {
+  margin: 39px auto 40px 0;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 8.66667px) calc(33.3333% - 8.66667px) calc(33.3333% - 8.66667px);
+  grid-gap: 13px 13px;
+  min-height: 538px;
+  grid-auto-columns: calc(33.3333% - 8.66667px);
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("images/1left6.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("images/3right6.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: url("images/2centre6.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: url("images/66.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-5 {
+  background-image: url("images/46.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-6 {
+  background-image: url("images/36.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-7 {
+  background-image: url("images/attack26.png");
+  background-position: 36.88% 50%;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-8 {
+  background-image: url("images/510fa8ef-a171-1b54-a8b9-bfa8805ea3446.png");
+  background-position: 12.21% 50%;
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-9 {
+  background-image: url("images/510fa8ef-a171-1b54-a8b9-bfa8805ea3446.png");
+  background-position: 78.57% 50%;
+}
+
+.u-section-1 .u-container-layout-9 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-10 {
+  background-image: url("images/Barysnikova_3MD-1_M2_self-portrait_stylization5.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-10 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-11 {
+  background-image: url("images/7064d599-5f16-b622-f65e-faf18d2bfa526.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-11 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-12 {
+  background-image: url("images/did-46.png");
+  background-position: 0% 50%;
+}
+
+.u-section-1 .u-container-layout-12 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-13 {
+  background-image: url("images/RAM_Baryshnikova_emotions_036.jpg");
+  background-position: 11.88% 50%;
+}
+
+.u-section-1 .u-container-layout-13 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-14 {
+  background-image: url("images/RAM_Baryshnikova_emotions_016.jpg");
+  background-position: 2.93% 50%;
+}
+
+.u-section-1 .u-container-layout-14 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-15 {
+  background-image: url("images/RAM_Baryshnikova_emotions_016.jpg");
+  background-position: 100% 50%;
+}
+
+.u-section-1 .u-container-layout-15 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-16 {
+  background-image: url("images/32-146.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-16 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-17 {
+  background-image: url("images/62-16.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-17 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-18 {
+  background-image: url("images/42-16.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-18 {
+  padding: 30px;
+}
+
+.u-section-1 .u-gallery-nav-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+  background-image: none;
+  padding: 4px;
+}
+
+.u-section-1 .u-gallery-nav-2 {
+  position: absolute;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+  background-image: none;
+  padding: 4px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-line-1 {
+    height: 0;
+  }
+
+  .u-section-1 .u-products-1 {
+    height: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 8.66667px));
+    grid-auto-columns: calc(33.333333333333336% - 8.66667px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 6.5000025px));
+    grid-auto-columns: calc(50% - 6.5000025px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+    grid-auto-columns: calc(100% - 0px);
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-9 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-11 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-12 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-13 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-14 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-15 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-16 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-17 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-18 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: 100%;
+  }
+}
